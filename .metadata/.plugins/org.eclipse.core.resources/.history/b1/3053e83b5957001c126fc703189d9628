@@ -1,0 +1,10 @@
+
+public class println {
+
+	public static void main(String[] args) {
+		System.out.print("사랑하는 ");
+		System.out.print("우리엄마");
+
+	}
+
+}

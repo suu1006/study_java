@@ -1,0 +1,12 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="ex6_2.Tv"><rhs name\="ex6_2.Tv"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.String"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.String"/></lhs><lhs name\="study2.Calculator3"><rhs name\="study2.Calculator3"/></lhs><lhs name\="study2.Singleton"><rhs name\="study2.Singleton"/></lhs><lhs name\="study2.FinalExample"><rhs name\="study2.FinalExample"/></lhs><lhs name\="study2.DmbCellPhone"><rhs name\="study2.DmbCellPhone"/></lhs><lhs name\="study2.Student"><rhs name\="study2.Student"/></lhs><lhs name\="study2.Calculator1_1"><rhs name\="study2.Calculator1_1"/></lhs><lhs name\="study2.Dog"><rhs name\="study2.HouseDog"/></lhs><lhs name\="study2.Animal"><rhs name\="study2.HouseDog"/></lhs><lhs name\="study2.HouseDog"><rhs name\="study2.HouseDog"/></lhs><lhs name\="study2.Calculator1_6"><rhs name\="study2.Calculator1_6"/></lhs><lhs name\="study2.Computer"><rhs name\="study2.Computer"/></lhs><lhs name\="study2.Airplane"><rhs name\="study2.SupersonicAirplane"/></lhs><lhs name\="study2.SupersonicAirplane"><rhs name\="study2.SupersonicAirplane"/></lhs><lhs name\="study2.Parent"><rhs name\="study2.Child"/></lhs><lhs name\="study2.Child"><rhs name\="study2.Child"/></lhs><lhs name\="Day1_3.InstanceInner"><rhs name\="Day1_3.InstanceInner"/></lhs><lhs name\="Day1_3.Ex7_13InnerClass"><rhs name\="Day1_3.Ex7_13InnerClass"/></lhs><lhs name\="Day2.Ex7_13$InstanceInner"><rhs name\="Day2.Ex7_13$InstanceInner"/></lhs><lhs name\="day1.Day1_2$InstanceInner"><rhs name\="day1.Day1_2$InstanceInner"/></lhs><lhs name\="cp7.Buyer"><rhs name\="cp7.Buyer"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+sourceHoverBackgroundColor=47,47,47
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\eclipse-jee-2021-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205\jre" version="16.0.1"/>
+    <libraryInfo home="C:\Program Files\Java\jdk-16.0.1" version="16.0.1"/>
+    <libraryInfo home="C:\eclipse-jee-2021-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.1.v20210528-1205" version="16.0.1"/>
+    <libraryInfo home="C:\java" version="1.8.0_291">
+        <bootpath>
+            <entry path="C:\java\lib\resources.jar"/>
+            <entry path="C:\java\lib\rt.jar"/>
+            <entry path="C:\java\lib\sunrsasign.jar"/>
+            <entry path="C:\java\lib\jsse.jar"/>
+            <entry path="C:\java\lib\jce.jar"/>
+            <entry path="C:\java\lib\charsets.jar"/>
+            <entry path="C:\java\lib\jfr.jar"/>
+            <entry path="C:\java\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\java\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\java\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

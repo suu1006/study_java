@@ -1,0 +1,10 @@
+
+public class println {
+
+	public static void main(String[] args) {
+		System.out.print("정수는");
+		System.out.println("예쁘다");
+
+	}
+
+}
